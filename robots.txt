@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hidalgohydrojetting.prosapp.site/sitemap.xml
